@@ -1,0 +1,1 @@
+This is my personal photography portfolio website where I showcase my work in **nature, travel, and cinematic photography**. The website is clean, responsive, and designed to give a visual-first experience.
